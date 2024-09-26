@@ -36,7 +36,7 @@
     "cookie-parser": "~1.4.4",
     "csurf": "^1.11.0",
     "debug": "~2.6.9",
-    "express": "~4.19.2",
+    "express": "~4.21.0",
     "express-session": "^1.17.2",
     "http-errors": "~1.6.3",
     "mkdirp": "^1.0.4",
